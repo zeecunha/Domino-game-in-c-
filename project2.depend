@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1483282146 source:c:\users\zeecunha\desktop\project2\domioes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dominoes.h"
+
+1483283150 c:\users\zeecunha\desktop\project2\dominoes.h
+
+1483283092 source:c:\users\zeecunha\desktop\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dominoes.h"
+	<time.h>
+
+1483459458 source:c:\users\zeecunha\desktop\project2 - cópia\dominoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"dominoes.h"
+
+1483390708 c:\users\zeecunha\desktop\project2 - cópia\dominoes.h
+
+1483453885 source:c:\users\zeecunha\desktop\project2 - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dominoes.h"
+	<time.h>
+
